@@ -1,0 +1,11 @@
+body{  margin-top: 70px;   background: #171717; color: #fff;  }
+
+h4, #gramsOutput, #pOutput, #osOutput{
+    margin-left: 20px;
+}
+
+.card-primary{  background-color: blue; }
+
+.card-success{  background-color: green; }
+
+.card-danger{  background-color: red;  }
